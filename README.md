@@ -4,7 +4,10 @@
   <div id="badges">
 </div>
   <br>
-  <h3>🛠  Languages and Tools I use:</h3>
+  <p>👋 Hello! My names is Liana and I’m an enthusiastic software developer with high interest in latest tech trends. In my free time, I love to learn new things and tools that would help me achieve higher goals.</p>
+
+<h3>🛠Here're some tools I'm currently working with:</h3>
+  <br>
   <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,3 +19,17 @@
    
 </div>
 </div>
+<br>
+ <div id="badges">
+<p aling="left">You can contact me via LinkedIn: <a href="https://www.linkedin.com/in/lianadacestipniece/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+</div>
+<hr>
+<h3>My latest projects</h3>
+<ul>
+<li><a href="https://github.com/LianaDace/NewsApi.v1">News feed</a></li>
+</ul>
+<hr>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianaDace&theme=radical&layout=compact" />
