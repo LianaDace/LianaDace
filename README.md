@@ -19,13 +19,7 @@
    
 </div>
 </div>
-<br>
- <div id="badges">
-<p aling="left">You can contact me via LinkedIn: <a href="https://www.linkedin.com/in/lianadacestipniece/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-</div>
+
 <hr>
 <h3>My latest projects</h3>
 <ul>
@@ -33,3 +27,12 @@
 </ul>
 <hr>
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianaDace&theme=radical&layout=compact" />
+<br>
+<hr>
+<br>
+ <div id="badges">
+<p aling="left">You can contact me via LinkedIn <a href="https://www.linkedin.com/in/lianadacestipniece/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+</div>
