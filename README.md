@@ -4,7 +4,7 @@
   <div id="badges">
 </div>
   <br>
-  <p>👋 Hello! My names is Liana and I’m an enthusiastic software developer with high interest in latest tech trends. In my free time, I love to learn new things and tools that would help me achieve higher goals.</p>
+  <p>👋 Hello! My names is Liana and I’m an enthusiastic software developer with high interest in latest tech trends.</p>
 
 <h3>🛠Here're some tools I'm currently working with:</h3>
   <br>
