@@ -24,6 +24,7 @@
 <h3>My latest projects</h3>
 <ul>
 <li><a href="https://github.com/LianaDace/NewsApi.v1">News feed</a></li>
+  <li><a href="https://github.com/LianaDace/crypto-currencies">Crypto currencies table</a></li>
 </ul>
 <hr>
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianaDace&theme=radical&layout=compact" />
