@@ -23,7 +23,7 @@
 <hr>
 <h3>My latest projects</h3>
 <ul>
-<li><a href="https://github.com/LianaDace/NewsApi.v1">News feed</a></li>
+<li><a href="https://github.com/LianaDace/news-page">News feed</a></li>
   <li><a href="https://github.com/LianaDace/crypto-currencies">Crypto currencies table</a></li>
 </ul>
 <hr>
